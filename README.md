@@ -6,5 +6,6 @@ Entre elas:
 - Python
 - Pyspark
 - SQL
+- Airflow
 - Cloud (pode variar entre Azure, AWS e GCP)
 - DataBricks

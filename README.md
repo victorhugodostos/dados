@@ -1,6 +1,6 @@
 # Dados
 
-Neste Repo, o principal objetivo é centralizar ingestões de dados, com ferramentas de engenharia. 
+Neste Repo, o principal objetivo é centralizar ingestões de dados, com ferramentas de engenharia de forma que atenda o ETL/ELT.
 
 Entre elas:
 - Python

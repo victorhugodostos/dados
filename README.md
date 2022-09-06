@@ -9,3 +9,7 @@ Entre elas:
 - Airflow
 - Cloud (pode variar entre Azure, AWS e GCP)
 - DataBricks
+
+**Fonte de Informações Utilizadas nos Projetos**
+- [Documentação Pyspark](https://spark.apache.org/docs/2.4.0/api/python/index.html)
+- [Datasets Exemplos Kaggle](https://www.kaggle.com)
